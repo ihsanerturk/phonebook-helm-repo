@@ -1,1 +1,1 @@
-# Phonebook Helm Repsitory
+# Phonebook Helm Repository
